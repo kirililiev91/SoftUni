@@ -1,0 +1,6 @@
+c:\users\kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe.config
+c:\users\kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 1. Persons\bin\Debug\Problem_1.Persons.exe
+c:\users\kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 1. Persons\bin\Debug\Problem_1.Persons.pdb
+c:\users\kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 1. Persons\obj\Debug\Problem 1. Persons.csprojResolveAssemblyReference.cache
+c:\users\kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 1. Persons\obj\Debug\Problem_1.Persons.exe
+c:\users\kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 1. Persons\obj\Debug\Problem_1.Persons.pdb

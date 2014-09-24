@@ -1,0 +1,6 @@
+C:\Users\Kiril\Documents\Visual Studio 2013\Projects\Homework Defining Classes\Problem 2. Laptop Shop\bin\Debug\Problem_2.Laptop_Shop.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2013\Projects\Homework Defining Classes\Problem 2. Laptop Shop\obj\Debug\Problem 2. Laptop Shop.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2013\Projects\Homework Defining Classes\Problem 2. Laptop Shop\bin\Debug\Problem_2.Laptop_Shop.exe
+C:\Users\Kiril\Documents\Visual Studio 2013\Projects\Homework Defining Classes\Problem 2. Laptop Shop\bin\Debug\Problem_2.Laptop_Shop.pdb
+C:\Users\Kiril\Documents\Visual Studio 2013\Projects\Homework Defining Classes\Problem 2. Laptop Shop\obj\Debug\Problem_2.Laptop_Shop.exe
+C:\Users\Kiril\Documents\Visual Studio 2013\Projects\Homework Defining Classes\Problem 2. Laptop Shop\obj\Debug\Problem_2.Laptop_Shop.pdb

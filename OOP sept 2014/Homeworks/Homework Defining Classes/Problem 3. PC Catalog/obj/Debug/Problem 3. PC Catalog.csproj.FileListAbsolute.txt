@@ -1,0 +1,6 @@
+C:\Users\Kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 3. PC Catalog\bin\Debug\Problem_3.PC_Catalog.exe.config
+C:\Users\Kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 3. PC Catalog\obj\Debug\Problem 3. PC Catalog.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 3. PC Catalog\bin\Debug\Problem_3.PC_Catalog.exe
+C:\Users\Kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 3. PC Catalog\bin\Debug\Problem_3.PC_Catalog.pdb
+C:\Users\Kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 3. PC Catalog\obj\Debug\Problem_3.PC_Catalog.exe
+C:\Users\Kiril\documents\visual studio 2013\Projects\Homework Defining Classes\Problem 3. PC Catalog\obj\Debug\Problem_3.PC_Catalog.pdb
